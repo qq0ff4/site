@@ -188,18 +188,18 @@ gray #e5e5e5;
 
 
 .txt_small_snow {
-    margin-left: 110px;
+    padding-left: 110px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 .txt_setka_snow_1 {
-    margin-left: 60px;
-    margin-bottom: 10px;
+    padding-left: 60px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -212,18 +212,18 @@ gray #e5e5e5;
 }
 
 .txt_small_snow_1 {
-    margin-left: 75px;
+    padding-left: 75px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 .txt_setka_snow_2 {
-    margin-left: 50px;
-    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -236,18 +236,18 @@ gray #e5e5e5;
 }
 
 .txt_small_snow_2 {
-    margin-left: 75px;
+    padding-left: 75px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 .txt_setka_snow_4 {
-    margin-left: 7.5px;
-    margin-bottom: 10px;
+    padding-left: 7.5px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -261,19 +261,19 @@ gray #e5e5e5;
 }
 
 .txt_small_snow_4 {
-    margin-left: 55px;
+    padding-left: 55px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
     width: 280px;
 }
 
 .txt_setka_1 {
-    margin-left: 50px;
-    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -291,20 +291,20 @@ gray #e5e5e5;
 }
 
 .txt_small_1 {
-    margin-left: 100px;
+    padding-left: 100px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
     width: 700px;
 }
 
 
 .txt_setka_3 {
-    margin-left: 35px;
-    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -318,7 +318,7 @@ gray #e5e5e5;
 }
 
 .txt_small_3 {
-    margin-left: 63px;
+    padding-left: 63px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
@@ -332,8 +332,8 @@ gray #e5e5e5;
 /*Вторая сетка с картинками*/
 
 .txt_setka_2_1 {
-    margin-left: 70px;
-    margin-bottom: 10px;
+    padding-left: 70px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -346,18 +346,18 @@ gray #e5e5e5;
 }
 
 .txt_small_2_1 {
-    margin-left: 85px;
+    padding-left: 85px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 .txt_setka_2_2 {
-    margin-left: 5px;
-    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -371,19 +371,19 @@ gray #e5e5e5;
 }
 
 .txt_small_2_2 {
-    margin-left: 30px;
+    padding-left: 30px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
     width: 400px;
 }
 
 .txt_setka_2_3 {
-    margin-left: 110px;
-    margin-bottom: 10px;
+    padding-left: 110px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -397,7 +397,7 @@ gray #e5e5e5;
 }
 
 .txt_small_2_3 {
-    margin-left: 155px;
+    padding-left: 155px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
@@ -408,8 +408,8 @@ gray #e5e5e5;
 }
 
 .txt_setka_2_4 {
-    margin-left: 12.5px;
-    margin-bottom: 10px;
+    padding-left: 12.5px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -424,19 +424,19 @@ gray #e5e5e5;
 }
 
 .txt_small_2_4 {
-    margin-left: 30px;
+    padding-left: 30px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 
 .txt_setka_2_5 {
-    margin-left: 5px;
-    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -450,19 +450,19 @@ gray #e5e5e5;
 }
 
 .txt_small_2_5 {
-    margin-left: 45px;
+    padding-left: 45px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
     width: 310px;
 }
 
 .txt_setka_2_6 {
-    margin-left: 15px;
-    margin-bottom: 10px;
+   padding-left: 15px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -477,13 +477,13 @@ gray #e5e5e5;
 }
 
 .txt_small_2_6 {
-    margin-left: 45px;
+    padding-left: 45px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
     width: 310px;
 }
 
@@ -517,8 +517,8 @@ gray #e5e5e5;
     padding-top: 5px;
     margin: 0 auto;
     width: 700px;
-    margin-right: 10%;
-    margin-left: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
     position: relative;
     z-index: 999;
 }
@@ -527,9 +527,9 @@ gray #e5e5e5;
 
 
 .photo_b {
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
 }
 
 
@@ -541,21 +541,20 @@ gray #e5e5e5;
 
 .big_photo_txt {
     position: absolute;
-    margin-top: 80px;
-    margin-left: 680px;
+    padding-top: 80px;
+    padding-left: 680px;
     font-size: 40px;
     color: #e5e5e5;
     background-color: #00000063;
     border-radius: 15px;
     border-top: 3px solid #e5e5e5;
-    padding-left: 15px;
     padding-right: 15px;
     height: 560px;
 }
 
 .big_photo_txt_small {
-    margin-left: 695px;
-    margin-bottom: 50px;
+    padding-left: 695px;
+    padding-bottom: 50px;
     width: 400px;
     position: absolute;
     font-size: 18px;
@@ -571,8 +570,8 @@ gray #e5e5e5;
 
 .big_photo_txt_2 {
     position: absolute;
-    margin-top: 65px;
-    margin-left: 60px;
+    padding-top: 65px;
+    padding-left: 60px;
     font-size: 40px;
     color: #e5e5e5;
     background-color: #00000063;
@@ -585,8 +584,8 @@ gray #e5e5e5;
 }
 
 .big_photo_txt_small_2 {
-    margin-left: 75px;
-    margin-bottom: 50px;
+    padding-left: 75px;
+    padding-bottom: 50px;
     width: 500px;
     position: absolute;
     font-size: 18px;
