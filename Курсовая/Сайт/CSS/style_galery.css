@@ -141,6 +141,7 @@ gray #e5e5e5;
     height: 330px;
     z-index: 999;
     padding-top: 0;
+    
 }
 
 
@@ -343,6 +344,7 @@ gray #e5e5e5;
     background-color: #00000063;
     border-radius: 15px;
     border-top: 3px solid #e5e5e5;
+    
 }
 
 .txt_small_2_1 {
@@ -496,12 +498,14 @@ gray #e5e5e5;
     border-radius: 10px;
     width: 400px;
     z-index: 999;
+
 }
 
 .item img {
     transition: 1s;
     display: block;
     opacity: 1;
+    
 }
 
 .item img:hover {
@@ -512,24 +516,22 @@ gray #e5e5e5;
 .setka {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    column-gap: 5px;
-    row-gap: 5px;
+
     padding-top: 5px;
     margin: 0 auto;
-    width: 700px;
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     position: relative;
     z-index: 999;
+    border: 1px solid rgb(255, 0, 0);
 }
 
 
 
 
 .photo_b {
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
+    padding-left: 10%;
+
 }
 
 
@@ -644,12 +646,12 @@ gray #e5e5e5;
 .setka_2 {
     display: grid;
     grid-template-columns: repeat(3, 2fr);
-    column-gap: 5px;
-    row-gap: 5px;
+
     width: 160px;
     margin-left: 10%;
     position: relative;
     z-index: 999;
+    
 }
 
 .photo_b_2 {
