@@ -306,7 +306,7 @@ gray #e5e5e5;
 
 
     .reason {
-        margin-top: 5%;
+        padding-top: 5%;
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 2%;
@@ -346,12 +346,12 @@ gray #e5e5e5;
         display: inline-block;
         width: 30%;
         vertical-align: top;
-        margin-right: 4%;
+        padding-right: 4%;
         font-size: 14px;
     }
 
     .textcols .textcols-item:last-child {
-        margin-right: 0;
+        padding-right: 0;
     }
 
     .photo_1 img {
@@ -366,7 +366,7 @@ gray #e5e5e5;
         padding-left: 10%;
         display: flex;
         padding-top: 5%;
-        margin-bottom: 10%;
+        padding-bottom: 10%;
     }
 
     .left_photo img {

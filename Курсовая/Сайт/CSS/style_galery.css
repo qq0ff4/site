@@ -145,8 +145,8 @@ gray #e5e5e5;
 
 
 .txt_setka {
-    margin-left: 70px;
-    margin-bottom: 10px;
+    padding-left: 70px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
@@ -159,18 +159,18 @@ gray #e5e5e5;
 }
 
 .txt_small {
-    margin-left: 95px;
+    padding-left: 95px;
     position: absolute;
     font-size: 18px;
     color: #e5e5e5;
     z-index: 999;
     bottom: 0;
-    margin-bottom: -5px;
+    padding-bottom: -5px;
 }
 
 .txt_setka_snow {
-    margin-left: 70px;
-    margin-bottom: 10px;
+    padding-left: 70px;
+    padding-bottom: 10px;
     position: absolute;
     font-size: 22px;
     color: #e5e5e5;
