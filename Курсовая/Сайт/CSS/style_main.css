@@ -1141,7 +1141,7 @@ footer p {
 
     footer {
         transform: translateY(-340%);
-        width: 274px;
+        width: 330px;
     }
 
     .social, menu{
@@ -1168,7 +1168,7 @@ footer p {
     .hydrated{
         max-height: 7000px;
     }
-    .u-section-5{
+    .u-section-{
         height: 900px;
     }
 }
