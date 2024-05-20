@@ -216,13 +216,7 @@ footer {
     flex-direction: column;
 }
 
-@media screen and (max-width: 600px) {
-    footer {
-        width: 465px;
-    }
 
-
-}
 
 .social,
 .menu {
@@ -282,4 +276,55 @@ footer p {
     position: fixed;
     left: 65px;
     bottom: 30px;
+}
+
+@media screen and (max-width: 779px){
+    .Our_company_left{
+        margin: 0;
+        padding-left: 0;
+        width: 100%;
+    }
+    .Our_company_main{
+        display: inline;
+    }
+    .Our_company_left h1{
+        margin: 0;
+        padding-left: 0;
+        text-align: center;
+        padding-top: 30px;
+        padding-right: 0;
+   }
+   .Our_company_right{
+    padding-left: 10%;
+    margin: 0;
+    padding-bottom: 30px;
+   }
+   .Our_company_right img{
+    width: 500px;
+    height: 400px;
+   }
+   .Our_company_right p{
+    padding-left: 9%;
+    margin: 0;
+    padding-bottom: 20px;
+    width: 500px;
+   }
+   footer{
+    width: 102.55vh;
+   }
+   .header a {
+    float: none;
+    display: block;
+    text-align: left;
+}
+
+.header-right {
+    float: none;
+    padding-top: 10px;
+}
+.topNubex{
+    margin: 0;
+    left: 10px;
+    bottom: 10px;
+}
 }
